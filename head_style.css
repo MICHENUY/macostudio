@@ -1,0 +1,47 @@
+* {
+    background: black;
+    color: silver;
+
+}
+
+.header{
+    display: flex;
+    justify-content: flex-start;
+
+}
+.header_logo{
+    width: 1500px;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 500px 0 0;
+    font-size: 46px;
+
+}
+.header_categori{
+    width: 1500px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 0 0 200px;
+    font-size: 40px;
+}
+.print_logo{
+    font-size: 35px;
+    color: silver;
+    margin-left: 150px;
+}
+.content{
+
+}
+.news{
+
+}
+.film_contrent{
+
+}
+.ads{
+
+}
